@@ -4,9 +4,9 @@ class Header extends Component {
   render() {
     return (
       <nav>
-        <div class="nav-wrapper">
-          <a class="brand-logo">Emaily</a>
-          <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <div className="nav-wrapper">
+          <a className="brand-logo">Emaily</a>
+          <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
               <a>Login With Google</a>
             </li>
